@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Icône : trois bâtons croisés posés sur deux feuilles -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group android:rotation="-38" android:pivotX="48" android:pivotY="74">
+        <path android:fillColor="#C8642E" android:pathData="M48,74 C61,65 59,46 48,36 C37,46 35,65 48,74 Z" />
+        <path android:strokeColor="#8E4421" android:strokeWidth="1.4" android:strokeLineCap="round" android:pathData="M48,73 L48,39" />
+    </group>
+    <group android:rotation="38" android:pivotX="60" android:pivotY="74">
+        <path android:fillColor="#6E9D45" android:pathData="M60,74 C73,65 71,46 60,36 C49,46 47,65 60,74 Z" />
+        <path android:strokeColor="#3F6A28" android:strokeWidth="1.4" android:strokeLineCap="round" android:pathData="M60,73 L60,39" />
+    </group>
+    <group android:rotation="-22" android:pivotX="54" android:pivotY="72">
+        <path android:fillColor="#8E5D33" android:pathData="M50.5,31 L57.5,31 L57.5,73 A3.5,3.5 0 0 1 50.5,73 Z" />
+        <path android:fillColor="#E2C595" android:pathData="M50.5,31 A3.5,2 0 1 1 57.5,31 A3.5,2 0 1 1 50.5,31 Z" />
+    </group>
+    <group android:rotation="22" android:pivotX="54" android:pivotY="72">
+        <path android:fillColor="#9C7448" android:pathData="M50.5,31 L57.5,31 L57.5,73 A3.5,3.5 0 0 1 50.5,73 Z" />
+        <path android:fillColor="#E2C595" android:pathData="M50.5,31 A3.5,2 0 1 1 57.5,31 A3.5,2 0 1 1 50.5,31 Z" />
+    </group>
+    <path android:fillColor="#7A4E2B" android:pathData="M50.5,28 L57.5,28 L57.5,73 A3.5,3.5 0 0 1 50.5,73 Z" />
+    <path android:fillColor="#E2C595" android:pathData="M50.5,28 A3.5,2 0 1 1 57.5,28 A3.5,2 0 1 1 50.5,28 Z" />
+</vector>
